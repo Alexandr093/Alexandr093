@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexandr093
 - 👀 I’m interested in ...         HTML
-- 🌱 I’m currently learning ... Onli VScode
+- 🌱 I’m currently learning ... VSCode
 -
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
